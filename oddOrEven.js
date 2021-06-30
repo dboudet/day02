@@ -1,6 +1,4 @@
-
-// new lines added
-
+//new commment for second commit
 
 function isEvenSingle(number1) {
     if(number1 % 2 === 0) {
